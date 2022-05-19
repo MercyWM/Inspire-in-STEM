@@ -30,10 +30,14 @@ multipleLineString = """ You can also print a string
                         three double qoutation marks """
 print(multipleLineString)
 
+# how to slice a word or cut out some letters from a word ********
 city = "Nairobi" 
 print(city[:5])
 print(city[2:])
+print(city[-1:])
 print(city[-1])
+print(city[:-1])
+print(city[:2])
 
 # converting to uppercase or lowercase
 f_name = "mercy muiruri"
@@ -69,8 +73,11 @@ print(full_name)
 name = "Brett Cooper"
 print(name.replace('t','g'))
 
-
+# hwo to split items
 msg = "Hello from Mercy Muiruri welcome"
 print(msg.split())
 
+# this one counts the number of characters in a string( spaces couint as characters)
 print(len(msg))
+
+# 
