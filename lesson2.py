@@ -11,9 +11,11 @@ yearOfBirth = 2004
 
 
 # strings
+# snake case
 my_first_name = "Nuria"
 my_second_name = "Mohamed"
 
+# camel case
 favouriteFood = "chips bought in town"
 schoolAttended = "a school in Kiambu"
 

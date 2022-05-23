@@ -11,6 +11,11 @@ print( " My name is {} and i am {} years old ".format( name,age ))
 print(f"My name is {name} and i am {age} years old") 
 print(f" My name is \t {name} \n and i am {age}")
 
+# how to add tabs
+print("Monday\tTuesday\tWednesday\tThursday\tFriday")
+# how to add newline
+print("Monday\nTuesday\nWednesday")
+
 user_name = " remove all spaces "
 print(user_name)
 print(user_name.strip())
@@ -29,7 +34,6 @@ multipleLineString = """ You can also print a string
                         three single qoutation marks or
                         three double qoutation marks """
 print(multipleLineString)
-
 # how to slice a word or cut out some letters from a word ********
 city = "Nairobi" 
 print(city[:5])
@@ -77,7 +81,7 @@ print(name.replace('t','g'))
 msg = "Hello from Mercy Muiruri welcome"
 print(msg.split())
 
-# this one counts the number of characters in a string( spaces couint as characters)
+# this one counts the number of characters in a string( spaces count as characters)
 print(len(msg))
 
 # 

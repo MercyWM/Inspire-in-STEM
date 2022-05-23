@@ -28,6 +28,7 @@ print(motorcycle[0] + plate_number[0] + motorcycle[1] + plate_number[1] + motorc
 motorcycle = ['honda','yamaha','suzuki']
 del motorcycle[2]
 print(motorcycle)
+print(motorcycle[-1])
 
 # the pop method to delete an item
 motorcycle = ['honda','yamaha','suzuki']

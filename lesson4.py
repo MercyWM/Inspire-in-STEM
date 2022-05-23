@@ -6,6 +6,9 @@ y = 300
 sum_of = x + y
 diff = y - x
 prod = x * y
+# how to raise something to a given power
+pow = 2**8
+print(pow)
 quot = y / x 
 
 print(" The sum of x and y is " + str(sum_of))
