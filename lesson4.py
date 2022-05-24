@@ -1,3 +1,5 @@
+#!usr/bin/python
+
 #integers
 
 x = 100

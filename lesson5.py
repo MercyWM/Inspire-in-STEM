@@ -1,3 +1,5 @@
+#!usr/bin/python
+
 # methods
 name = "Muiruri Mercy"
 age = 17

@@ -1,3 +1,5 @@
+#!usr/bin/python
+
 # print the squares of numbers from 1 to 9
 print(str(1**1))
 print(str(2**2))

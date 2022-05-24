@@ -16,16 +16,40 @@ https://www.google.com/search?q=download+git+for+windows&oq=dow&aqs=chrome.0.69i
 ![lesson 2](./images/Capture.PNG)
 ![ lesson 3](./images/picture.PNG)
 
+Day 2: Variables, Arithmetic operations
+
+Day 3 : LEARNING ABOUT STRINGS 
 strings
+adding tabs adding tabs and newlines
+multiple line strings
 replace()
 slice()
 length()
 split()
 concatenation
+changing from uppercase to lowercase
+
+Day 4 : LISTS
+append
+remove
+pop method
+remove
+
+Day 5 : CAREER TALK
+KUCCPS PORTAL
 
 
 ## Week 2 Electronics for innovators
 
+Day 6 : DICTIONARIES
+initializing dictionaries
+modifying dictionaries
+deleting dictionaries
+
+Day 7: LOOPS AND IF STATEMENTS
+for loops
+if statements
+if else statements
 
 ## Week 3 : Introduction to Robotics
 

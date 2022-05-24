@@ -1,4 +1,4 @@
-
+#!usr/bin/python
 
 # volume of a cube
 

@@ -1,3 +1,5 @@
+#!usr/bin/python
+
 # my age 
 
 age = 20
