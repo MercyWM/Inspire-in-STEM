@@ -21,4 +21,8 @@ print("______________________")
 for number in range(0,9):
     print(number,"\t",number**2)
 
-        
+# assignment
+colours = ["blue","red","yellow","green","indigo","violet"]
+for colour in colours:
+    if colour == "red":
+        print(colour.upper())        
