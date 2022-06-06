@@ -1,5 +1,11 @@
 #!usr/bin/python
 
+#########################
+#      Variables
+#      Name: Mercy Muiruri
+#      Date: 17/5/22 
+##########################
+
 # my age 
 
 age = 20

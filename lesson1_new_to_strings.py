@@ -1,8 +1,14 @@
 #!usr/bin/python
 
-print('Hello World')
-# Python basics
+#########################
+#      New to Strings
+#      Name: Mercy Muiruri
+#      Date: 17/5/22 
+##########################
 
+
+# Python basics
+print('Hello World')
 
 #adding two numbers
 # multi/ many lines 

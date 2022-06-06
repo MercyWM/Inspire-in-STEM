@@ -75,6 +75,15 @@ while loops
 ![loops_and_dictionaries](./images/WHILE%20LOOPS.PNG)
 ## Week 3 : Introduction to Robotics
 
+ Divisibility tests
+checking if a number is divisible
+arithmetic and geometrical progressions
+functions in python
+quadratic equations
+password generator
+classes in python
+
+
 
 ## Week 4 : JavaScript, CSS, HTML
 

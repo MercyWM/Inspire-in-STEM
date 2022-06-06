@@ -1,5 +1,12 @@
 #!usr/bin/python
 
+
+#########################
+#      String methods
+#      Name: Mercy Muiruri
+#      
+##########################
+
 # methods
 name = "Muiruri Mercy"
 age = 17

@@ -1,5 +1,12 @@
 #!usr/bin/python
 
+
+##########################
+#      IF STATEMENTS AND USER INPUT
+#      Name: Mercy Muiruri
+#      
+###########################
+
 # write a program that gets the user input and adds 10,000 to her account if she is between 25 to 30 years
 age = input("What is your age?")
 gender = input("What gender are you: male/female")

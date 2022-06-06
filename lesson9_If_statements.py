@@ -1,7 +1,7 @@
 #!usr/bin/python
 
 #########################
-#      LISTS 2
+#      If statments
 #      Name: Mercy Muiruri
 #      Date: 23/5/22 
 ###########################
@@ -32,5 +32,6 @@ if age >= 18:
     print("Driving license approved")
 else :
     print("DRIVING LICENSE DENIED TO MINORS")
+message = "Driving license approved" if age>= 18 else "DRIVING LICENSE DENIED TO MINORS" 
 
-# write a program that gets the user input and adds 10,000 to her account if she is between 25 to 30 years
+#

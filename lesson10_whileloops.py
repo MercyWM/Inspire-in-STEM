@@ -64,6 +64,10 @@ num = 0
 while num < 10:
     if(num%2 == 0):
         print(num)
-    num = num + 1
+    num += 1
       
-        
+# print a chant for a cheering squad
+i = 1
+while i <= 3:
+    print("Go!",end="")
+    i += 1

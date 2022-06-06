@@ -1,5 +1,12 @@
 #!usr/bin/python
 
+
+#########################
+#      Lists
+#      Name: Mercy Muiruri
+#      Date: 17/5/22 
+##########################
+
 # learning about lists
 motorcycle = ['honda','yamaha','suzuki']
 print(motorcycle)
@@ -24,6 +31,7 @@ print(str(motorcycle[1]),str(plate_number[1]))
 print(str(motorcycle[2]),str(plate_number[2]))
 print(str(motorcycle[0]),str(plate_number[0]),str(motorcycle[1]),str(plate_number[1]),str(motorcycle[2]),str(plate_number[2]))
 print(motorcycle[0] + plate_number[0] + motorcycle[1] + plate_number[1] + motorcycle[2] + plate_number[2])
+
 
 # deleting an  item from a list
 motorcycle = ['honda','yamaha','suzuki']
@@ -59,3 +67,9 @@ for pupil in pupil:
     print(f" Hello I am {pupil}")
 for school in school:
     print(f" I go to {school}")
+
+# enumerate function
+# in a list you can use a for loop to print out each item, in the list and print out each item with its index
+schools =  ["Mec","Breaburn","Kilimanjaro","Alpine"]
+for schools in enumerate(schools):
+    print(schools) # this prints out each item in the list with its index as a tuple

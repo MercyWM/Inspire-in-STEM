@@ -1,5 +1,11 @@
 #!usr/bin/python
 
+#########################
+#      Getting the user input
+#      Name: Mercy Muiruri
+#      Date: 18/5/22 
+##########################
+
 # getting user input
 
 f_name = input("What is your name ? ")

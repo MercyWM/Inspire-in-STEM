@@ -1,5 +1,11 @@
 #!usr/bin/python
 
+#########################
+#      Integers
+#      Name: Mercy Muiruri
+#      Date: 19/5/22 
+##########################
+
 #integers
 
 x = 100

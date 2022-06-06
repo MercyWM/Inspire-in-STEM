@@ -1,5 +1,12 @@
 #!usr/bin/python
 
+
+##########################
+#      MATH OPERATIONS AAND CALCULATIONS
+#      Name: Mercy Muiruri
+#      
+###########################
+
 # assignment on operations
 
 # area of a circle

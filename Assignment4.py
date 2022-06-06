@@ -1,5 +1,11 @@
 #!usr/bin/python
 
+##########################
+#      IF,ELSE AND ELIF STATEMENTS
+#      Name: Mercy Muiruri
+#      
+###########################
+
 # write a program to withdraw Ksh 25000 if account balance is between Ksh 100000 to Ksh 200000 
 # 30% if account balance between 500000 to 1000000
 # above 1000000 deduct only 15000
