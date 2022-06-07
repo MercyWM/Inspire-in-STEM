@@ -25,7 +25,7 @@ print(passwords)
 
 # password generator using classes
 import random
-character = "Mercy Muiruri"
+character = 12356
 num_of_passwords = int(input("Enter the number of passwords you want"))
 length_of_passwords = int(input("Enter the length of the password"))
 class Passwords:
