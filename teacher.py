@@ -1,4 +1,10 @@
+#!usr/bin/python
 
+##########################
+#      Classes
+#      Name: Mercy Muiruri
+#      Date: 31/5/22 
+###########################
 
 class Teacher:
     def __init__(self,name,tsc_number,subject,salary):

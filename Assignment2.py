@@ -30,3 +30,17 @@ for i in range(1,rows+1):
 
 # reversing numbers
 
+#making a simple calculator
+# python project
+# tkinter
+#arduino
+# figma
+# github
+#stackoverflow
+#cousera
+#codecademyu
+#soloearn
+#udemy
+#udacity
+
+
