@@ -16,11 +16,11 @@ window  = Tk()        # this creates an empty window
 window.title("Welcome to my app!") # this adds the title
 window.configure(bg= "yellow")      # this creates a background colour to the user interface
 window.geometry("400x400")        # this specifies the size of the user interface
-
-f_name = Label(window, text="FIRST NAME",font=("Calibri Bold",20)) # this ads labels to the interface and you have to specify the font you want and the size of the text
+ # this ads labels to the interface and you have to specify the font you want and the size of the text
 s_name = Label(window, text="SECOND NAME",font=("Calibri Bold",20))
+f_name = Label(window, text="FIRST NAME",font=("Calibri Bold",20))
 
-f_name.grid(column = 60,row = 100)    # this specifys where exactly on the window it will print out
+f_name.grid(column = 60,row = 100)    # this specifys wont=("Calibri Bold",20)here exactly on the window it will print out
 s_name.grid(column = 60,row = 120)
 
 
