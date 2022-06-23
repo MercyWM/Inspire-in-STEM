@@ -6,35 +6,16 @@
 #      
 ###########################
 
-
-
 import random
-num_password = int(input("What is the number of passwords you want to generate?"))
-print(num_password)
-len_password = int(input("What is the length of your password?"))
-print(len_password)
-character = "Laura Rege"
 
-#print here are your passwords
+print("Welcome to our Password generator😊")
+char ="Marley@7345"
+num_pass = int(input("What number of passwords would you like to generate? "))
+len_pass = int(input("Enter your preferred password length: "))
+print("\n Here are your passwords! ")
 
-for passwords in range (num_password):
-    passwords = ""
-for c in range(len_password): 
-    passwords += random.choice(character)
-print(passwords)
-
-# password generator using classes
-import random
-character = 12356
-num_of_passwords = int(input("Enter the number of passwords you want"))
-length_of_passwords = int(input("Enter the length of the password"))
-class Passwords:
-    def __init__(self,account):
-        self.account =  account
-user = Passwords(input("Enter your email address"))
-print("Your new password is:")
-for passwords in range(num_of_passwords):
-    passwords = " "
-for c in range(length_of_passwords):
-    passwords = passwords + random.choice(character)
-    print(passwords)
+for pwd in range(num_pass):
+    password =random.choice(char)
+    for c in range (len_pass):
+      password+= random.choice(char)
+    print(password)

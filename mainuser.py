@@ -16,10 +16,13 @@ label1 = Label(window,text = "FIRST NAME",font= ("Calibri Bold",20)).place(x=150
 label2= Label(window, text= "SECOND NAME",font = ("Calibri Bold",20)).place(x=150,y=250)
 
 f_name = StringVar()
-f_name = Entry(window,width=20,bg= "yellow",textvariable = f_name).place(x=400,y=200)
-s_name = StringVar()
-s_name = Entry(window,width=20,bg= "red",textvariable= s_name).place(x=400,y=250)
+f_name = Entry(window,width=20,bg= "yellow",borderwidth=3,textvariable = f_name)
+f_name.place(x=400,y=200)
 
+
+s_name = StringVar()
+s_name = Entry(window,width=20,bg= "red",borderwidth=3,textvariable= s_name)
+s_name.place(x=400,y=250)
 
 # input1 = StringVar()
 # f_name = Text(window,width= 20,bg ="orange").place(x=400,y=200)
@@ -35,7 +38,7 @@ def open_poppup_error():
     Label(top, text= "User Not Available in system yet!",font = ("Arial",20)).place(x=200,y=200)
 
 def login():
-    if (f_name.get() =="Mercy") and (s_name.get() =="Muiruri"):
+    if (f_name.get() =="Mercy")and (s_name.get() =="Muiruri"):
        window1()
 
     elif f_name.get() == "Jonathan" and s_name.get() == "Ageyo":
