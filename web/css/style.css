@@ -1,0 +1,39 @@
+/*body{                            
+    background-color: blueviolet;
+    color: white;
+}
+nav{
+    background-color: violet;
+    color:black;
+}
+div{
+    background-color:purple;
+}
+p{
+    background-color: indigo;
+}*/
+
+body{
+    /*margin: 45px( this creates space between the browser and your content)*/
+    padding: 50px;
+    background-color: blue;
+
+}
+#nav1{ background-color: brown; /* how to target ids. Ids are unique and should be different in different sections of code. To target the id, use a hashtag.*/
+       margin: 15px
+
+}
+
+
+.block{ /* how to target classes in another file. to target a class, put a dot in front. This helps to reuse CSS styling. You can style a section of code and assign it a class.
+    If you want to reuse the styling, just assign that other section of code to the same class.*/
+    background-color: orange;
+    color: orangered;
+}
+
+.meta-data{
+    font-weight: 400;/* this is the level of boldness*/
+    color: red;
+    font-size: 23px;/*font size*/
+
+}
